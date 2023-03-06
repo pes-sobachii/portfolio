@@ -33,14 +33,6 @@ const Skills = () => {
                         <li>Redux Toolkit</li>
                     </ul>
                 </div>
-                {/*<div className={styles.item}>*/}
-                {/*    <h3>Fundamental Skills</h3>*/}
-                {/*    <ul>*/}
-                {/*        <li>Photoshop</li>*/}
-                {/*        <li>MS Access</li>*/}
-                {/*        <li>Python</li>*/}
-                {/*    </ul>*/}
-                {/*</div>*/}
                 <div className={styles.item}>
                     <h3>Backend Technologies</h3>
                     <ul>
@@ -55,6 +47,15 @@ const Skills = () => {
                         <li>Photoshop</li>
                         <li>MS Access</li>
                         <li>Python</li>
+                    </ul>
+                </div>
+                <div className={styles.item}>
+                    <h3>Soft Skills</h3>
+                    <ul>
+                        <li>Adaptability</li>
+                        <li>Patience</li>
+                        <li>Problem solving</li>
+                        <li>Creativity</li>
                     </ul>
                 </div>
             </div>

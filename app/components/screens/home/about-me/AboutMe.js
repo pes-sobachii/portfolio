@@ -24,10 +24,7 @@ const AboutMe = () => {
                         ]} speed={50} className='text-fuchsia-700' wrapper='span' repeat={Infinity}/>
                     </div>
                     <p className='max-w-[600px] lg: max-w-full'>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto aut dolores eveniet
-                        laudantium,
-                        libero nostrum quaerat quas. Consequuntur dolor dolorem ex numquam placeat, quasi recusandae sed
-                        sint, ut, velit voluptatibus.
+                        Web-development is my passion and I am glad to spend my time creating various websites. It is incredible to do something that you are fond of for a living. I hope you are interested to try to work with me, any new experience is a treasure for me.
                     </p>
                     <div className="py-4 text-center lg:py-12">
                         <button type="button"
@@ -41,7 +38,7 @@ const AboutMe = () => {
                         <a target='_blank' href="https://t.me/wander1ng_jew">
                             <FaTelegram/>
                         </a>
-                        <a target='_blank' href="#">
+                        <a target='_blank' href="https://www.linkedin.com/in/alex-solohub-03b779262/">
                             <FaLinkedin/>
                         </a>
                     </div>
