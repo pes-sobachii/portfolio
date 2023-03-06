@@ -1,5 +1,5 @@
 import React from 'react';
-import Face from '../../../../../public/Images/photo_2023-03-06_00-15-24.jpg'
+import Face from '../../../../assets/Untitled-3.png'
 import {TypeAnimation} from "react-type-animation";
 import Image from "next/image";
 import {FaGithub, FaTelegram, FaLinkedin} from 'react-icons/fa'
@@ -27,9 +27,11 @@ const AboutMe = () => {
                         Web-development is my passion and I am glad to spend my time creating various websites. It is incredible to do something that you are fond of for a living. I hope you are interested to try to work with me, any new experience is a treasure for me.
                     </p>
                     <div className="py-4 text-center lg:py-12">
-                        <button type="button"
-                                className="lg:text-[25px] text-white bg-gradient-to-r from-purple-500 via-purple-700 to-purple-900 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 rounded-lg text-sm px-5 py-2.5 lg:py-4 text-center mr-2 mb-2">My Resume
-                        </button>
+                        <a target='_blank' href={'./resume.pdf'}>
+                            <button type="button"
+                                    className="lg:text-[25px] text-white bg-gradient-to-r from-purple-500 via-purple-700 to-purple-900 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-purple-300 dark:focus:ring-purple-800 rounded-lg text-sm px-5 py-2.5 lg:py-4 text-center mr-2 mb-2">My Resume
+                            </button>
+                        </a>
                     </div>
                     <div className="flex items-center justify-center gap-8 text-[34px]">
                         <a target='_blank' href="https://github.com/pes-sobachii">

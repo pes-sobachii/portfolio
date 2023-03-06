@@ -6,7 +6,6 @@ const Skills = () => {
         <div className='py-10'>
             <h2 className='text-[42px] text-center mb-20'>Experience</h2>
             <div className="flex items-start gap-10 flex-wrap justify-center px-10 lg:px-0">
-            {/*<div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 grid-rows-2 items-start gap-10 flex-wrap justify-between px-20 lg:px-0">*/}
                 <div className={styles.item}>
                     <h3>Fundamental Frontend Technologies</h3>
                     <ul>

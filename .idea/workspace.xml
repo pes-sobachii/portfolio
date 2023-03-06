@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f53ef707-4af7-4578-8817-c6199e8171ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/public/Untitled-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/resume.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/components/screens/home/about-me/AboutMe.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/screens/home/about-me/AboutMe.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/components/screens/home/examples/Examples.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/screens/home/examples/Examples.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/components/screens/home/skills/Skills.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/screens/home/skills/Skills.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,26 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.14.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.14&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Саша/Desktop/ynffnfynf/portfolio/app/components&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;Sass&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.1.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "javascript.nodejs.core.library.configured.version": "16.14.0",
+    "javascript.nodejs.core.library.typings.version": "16.18.14",
+    "last_opened_file_path": "C:/Users/Саша/Desktop/ynffnfynf/portfolio/public",
+    "list.type.of.created.stylesheet": "Sass",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.1.2\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Саша\Desktop\ynffnfynf\portfolio\app\components" />
@@ -75,7 +78,7 @@
       <workItem from="1678014134940" duration="3280000" />
       <workItem from="1678031747014" duration="15459000" />
       <workItem from="1678091521028" duration="2911000" />
-      <workItem from="1678108371835" duration="17803000" />
+      <workItem from="1678108371835" duration="19702000" />
     </task>
     <servers />
   </component>
