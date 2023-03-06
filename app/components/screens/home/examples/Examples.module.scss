@@ -1,0 +1,46 @@
+.section{
+  @apply py-10;
+}
+
+.title{
+  @apply text-[42px] text-center mb-10;
+}
+
+.row{
+  @apply border-b border-b-fuchsia-50 border-opacity-20 py-5 flex items-center;
+}
+
+.image{
+  @apply basis-[40%];
+}
+.info{
+  @apply flex-1 px-10 text-right;
+}
+
+.name{
+  @apply font-bold text-[35px];
+}
+.stack{
+  @apply text-[22px] mb-5;
+}
+.buttons{
+  @apply text-[18px];
+  a {
+    @apply mr-0 ml-6;
+  }
+}
+.deploy {
+  @apply px-6 py-2 transition-colors duration-300 rounded rounded-full shadow-lg text-violet-100 bg-violet-500 hover:bg-violet-600 shadow-violet-400/30;
+}
+.repo {
+  @apply px-6 py-2 transition-colors duration-300 rounded rounded-full shadow-lg text-fuchsia-100 bg-fuchsia-500 hover:bg-fuchsia-600 shadow-fuchsia-500/30;
+}
+.reversed{
+  @apply flex-row-reverse;
+  .info{
+    @apply text-left
+  }
+  a {
+    @apply mr-6 ml-0;
+  }
+}

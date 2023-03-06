@@ -1,0 +1,46 @@
+.circles {
+  > div {
+    @apply absolute;
+    width: 600px;
+    height: 600px;
+    animation: circleAnim 5s infinite ease-in-out;
+
+    &:first-child {
+      left: -270px;
+      top: -270px;
+      background: radial-gradient(circle, rgba(172,52,150,0.8) 0%, rgba(148,187,233,0) 70%);
+    }
+
+    &:last-child {
+      right: -270px;
+      bottom: -270px;
+      background: radial-gradient(circle, rgba(172,52,150,0.8) 0%, rgba(148,187,233,0) 70%);
+    }
+
+    //&:first-child {
+    //  left: -430px;
+    //  top: -430px;
+    //  box-shadow: 160px 100px 430px rgba(191, 85, 236, 0.9);
+    //}
+    //
+    //&:last-child {
+    //  right: -430px;
+    //  bottom: -430px;
+    //  box-shadow: -160px -100px 430px rgba(191, 85, 236, 0.9);
+    //}
+  }
+}
+
+@keyframes circleAnim {
+  0% {
+    opacity: 0.25;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  100% {
+    opacity: 0.25;
+  }
+}

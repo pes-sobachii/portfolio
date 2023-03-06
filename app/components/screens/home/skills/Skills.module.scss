@@ -1,0 +1,9 @@
+.item {
+  @apply border border-fuchsia-800 border-2 rounded-md py-10 px-5 basis-1/4 bg-fuchsia-700 bg-opacity-10 md:h-[400px] md:basis-[40%] lg:basis-[30%] basis-[100%];
+  h3{
+    @apply text-[26px] text-center mb-5;
+  }
+  li:not(:last-child) {
+    @apply mb-8;
+  }
+}
